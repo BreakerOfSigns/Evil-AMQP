@@ -1,2 +1,2 @@
 # Evil-AMQP
-SUUUUUUUUUUPER Basic use of Pika library to perform attacks against RabbitMQ broker
+SUUUUUUUUUUPER Basic use of Pika library to produce and consume off AMQPS (RabbitMQ) broker
